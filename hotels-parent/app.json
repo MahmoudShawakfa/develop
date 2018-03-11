@@ -1,0 +1,5 @@
+{
+  "name": "Start on Heroku: Java",
+  "description": "A Hotel App.",
+  "addons": [ "heroku-postgresql" ]
+}
